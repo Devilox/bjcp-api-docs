@@ -20,7 +20,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--outline button--warning button--lg"
-            to="/docs/intro">
+            to="/docs/bjcp">
             Discover BJCP & API
           </Link>
         </div>
@@ -30,11 +30,10 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={siteConfig.title}
-      description="Description will go into a meta tag in <head />">
+      title="Official Documentation of BJCP GrahQL API"
+      description="Discover and play with GraphQL API with many resources of BJCP Style Guidelines 2021">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

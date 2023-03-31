@@ -1,4 +1,6 @@
 ---
+title: Discover BJCP and API
+description: API for developers and beer lovers
 sidebar_position: 1
 ---
 

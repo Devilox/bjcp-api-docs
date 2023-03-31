@@ -66,7 +66,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'bjcp',
             position: 'left',
             label: 'API',
           },

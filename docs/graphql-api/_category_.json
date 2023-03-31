@@ -1,9 +1,9 @@
 {
-    "label": "GraphQL API",
+    "label": "API - GraphQL queries",
     "position": 2,
     "link": {
       "type": "generated-index",
-      "description": "Discover all GraphQL query availabled"
+      "description": "Discover all GraphQL queries availabled"
     }
   }
   

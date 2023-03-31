@@ -5,7 +5,7 @@ tags:
   - api
 ---
 
-All parent categories that regroup all bjcp beer styles
+All categories of parents that regroup all bjcp beer styles
 
 ## Query
 

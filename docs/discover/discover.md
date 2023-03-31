@@ -1,6 +1,6 @@
 ---
-title: Discover API
-description: Welcome
+title: API - Documentation
+description: Discover all information about GraphQL API, endpoint, queries, security
 sidebar_position: 2
 ---
 
