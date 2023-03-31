@@ -11,7 +11,7 @@ const FeatureList = [
     Img: bjcpLogo,
     description: (
       <>
-        All content from API come from the official style guidelines of BJCP 2021.
+        All content from API come from the official BJCP style guidelines.
       </>
     ),
   },
@@ -21,7 +21,7 @@ const FeatureList = [
     description: (
       <>
         <span>A GraphQL API easy to use to build beautiful mobile and web application.</span><br />
-        <span>For each beer style, you can use all information you want with the power of GraphQL, for example discover the history of a style of beer, the description of its aromas, its sense of smell, technical information such as densities (OG/FG), IBU min/max, SRM, ABV ...</span>
+        <span>For each beer style, you can use all information you want with the power of GraphQL, for example discover beer style, the description of its flavour, its sense of smell, technical information such as densities (OG/FG), IBU min/max, SRM, ABV ...</span>
       </>
     ),
   },

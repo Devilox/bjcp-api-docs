@@ -18,19 +18,19 @@ Source: [BJCP about page](https://www.bjcp.org/about/introduction-bjcp/)
 
 ## Why an API for developer to discover beer styles from BJCP ?
 
-If you are familiar with BJCP website, it's not easy to read and discover each beer style and we have access only to a big document (.pdf or .docx) with 100 pages that reference all beer styles.
+If you are familiar with BJCP website, it's not easy to read and discover each beer style and we only have access to a big document (.pdf or .docx) with 100 pages that reference all styles of beer.
 
 **Conclusion**:
-- These are not easily usable formats to be use for web application or mobile app, only pdf or docx formats.
+- These are not usable formats for web or mobile application.
 - The documentation is exclusively in English so it's not very exploitable for other countries.
 
 So i decided to:
-- Build an web administration to manage data of all beer styles easly with internationalization (only english for now)
+- Build a web administration to manage data for all beer styles easily with internationalization (only english for now)
 - Build a GraphQL API that can be used by developers.
 
 ## Discover API
 
-This API is open source.
+This API is an open-source project.
 
 [Discover API](../docs/discover)
 
@@ -38,5 +38,4 @@ This API is open source.
 ## GraphQL API with Strapi
 
 This GraphQL API is builed with [Strapi](https://strapi.io/) a open-source headless CMS.
-This CMS can manage easly all content-type and content and generate a great GraphQL API.
-
+This CMS can manage easily all content-type, content and generate a great GraphQL API.
